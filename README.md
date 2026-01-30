@@ -235,11 +235,11 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 ```javascript
 const nidhiFacts = {
-    🍕 favoriteFood: "Pizza (with pineapple, fight me)",
+    🍕 favoriteFood: "Pizza (without pineapple, fight me)",
     ☕ coffeePerDay: "Math.floor(Math.random() * 10) + 3",
     🎵 codingPlaylist: "Lo-fi beats + occasional chaos",
-    🌙 nightOwl: true,
-    😴 morningPerson: false,
+    🌙 nightOwl: false,
+    😴 morningPerson: true,
     🐛 bugsSquashed: "∞",
     💡 ideasPerMinute: "Too many to count",
     🚀 deploymentAnxiety: "Every. Single. Time."
