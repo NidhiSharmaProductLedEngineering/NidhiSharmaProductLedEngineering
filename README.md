@@ -1,217 +1,359 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Nidhi%20Sharma&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Product-Led%20Engineering%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nidhi%20Sharma&fontSize=90&fontAlignY=38&desc=🚀%20Turning%20Coffee%20into%20Code%20%7C%20Bugs%20into%20Features%20%7C%20Ideas%20into%20Products&descAlignY=55&descAlign=50&animation=twinkling)
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product-Led+Engineering+Specialist;Full+Stack+Developer;TypeScript+%7C+JavaScript+Expert;Building+Scalable+Solutions;Always+Learning+%26+Growing&font=Fira+Code&center=true&width=600&height=50&color=6366F1&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhisharma-fe-arc/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nidhisharma.dev) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhi.sharmait28@yahoo.co.in)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nidhisharmadev) -->
-
-</div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=NidhiSharmaProductLedEngineering&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/NidhiSharmaProductLedEngineering?style=for-the-badge&color=8B5CF6&labelColor=1F2937)](https://github.com/NidhiSharmaProductLedEngineering?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/NidhiSharmaProductLedEngineering?style=for-the-badge&color=EC4899&labelColor=1F2937)](https://github.com/NidhiSharmaProductLedEngineering?tab=repositories)
-
-</div>
-
----
-
-## 🚀 About Me
 
 ```typescript
-const nidhi = {
-    role: "Product-Led Engineering Specialist",
-    location: "🌍 Dubai, UAE",
-    focus: ["Full Stack Development", "Product Strategy", "User Experience"],
-    currentlyLearning: ["Advanced System Design", "AI/ML Integration", "Cloud Architecture"],
-    askMeAbout: ["React", "TypeScript", "Firebase", "Product Development"],
-    funFact: "I turn coffee into scalable products ☕️→📈"
-};
+// 🎯 System.out.println("Who am I?");
+
+class NidhiSharma extends Developer implements ProductEngineer {
+    readonly name = "Nidhi Sharma";
+    readonly location = "🌍 Dubai, UAE";
+    readonly title = "Product-Led Engineering";
+    
+    private skills = {
+        languages: ["TypeScript", "JavaScript", "Python", "The Language of Caffeine"],
+        frontend: ["React", "Next.js", "Tailwind", "Making Pixels Dance"],
+        backend: ["Node.js", "Express", "Firebase", "Database Whisperer"],
+        devOps: ["Docker", "AWS", "CI/CD", "Breaking Prod (just kidding)"],
+        superpower: "Debugging without console.log (usually)"
+    };
+    
+    getCurrentStatus(): string {
+        return "🔥 Building cool stuff & hunting for the next big opportunity";
+    }
+    
+    getFunFact(): string {
+        return "I speak fluent JavaScript and broken English before coffee ☕";
+    }
+    
+    // 💼 Open for opportunities!
+    isAvailableForHire = true;
+}
 ```
-
-### 🎯 Current Focus
-
-- 💼 Building **product-led solutions** that users love
-- 🔧 Creating **scalable applications** with modern tech stacks  
-- 📊 Bridging the gap between **product & engineering**
-- 🚀 Passionate about **DevOps** and **automation**
-- 🌱 Continuously learning and adapting to new technologies
-- 🎨 Focused on exceptional **user experiences**
-
----
-
-## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Sorcerer+🪄;Product+Engineering+Enthusiast+💡;Bug+Hunter+Extraordinaire+🐛;Coffee+to+Code+Converter+☕→💻;Building+MVPs+at+Lightspeed+⚡;Always+Learning,+Never+Settling+📚&font=Fira+Code&center=true&width=600&height=100&color=f75c7e&vCenter=true&pause=1000&size=24&multiline=true)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🎮 PRESS START TO CONTINUE
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  👾 SELECT YOUR ADVENTURE:                  │
+├─────────────────────────────────────────────┤
+│  [A] View My Projects                       │
+│  [B] Check My Skills                        │
+│  [C] See GitHub Stats                       │
+│  [D] Hire Me (Best Choice!)                 │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🎯 CURRENT SIDE QUESTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 What I'm Shipping
+- 🔮 **Next-gen React apps** that make users go "wow"
+- 🏗️ **Scalable backends** that don't fall over
+- 🎨 **UI/UX magic** because pretty matters
+- 📊 **Product analytics** to know what users want
+- 🤖 **AI integrations** because it's 2026, duh
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Leveling Up
+- Advanced System Design (scalability is sexy)
+- AI/ML Integration (teaching machines to think)
+- Cloud Architecture (AWS wizard in training)
+- Performance Optimization (gotta go fast)
+- Leadership Skills (because teamwork)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ MY TECH ARSENAL
+
+<div align="center">
+
+### ⚔️ Languages of Power
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend Development
+### 🎨 Frontend Magic
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend Sorcery
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🎨 Design & Productivity
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🎯 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATS - THE NUMBERS DON'T LIE
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NidhiSharmaProductLedEngineering&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NidhiSharmaProductLedEngineering&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=8B5CF6" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NidhiSharmaProductLedEngineering&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiSharmaProductLedEngineering&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
-  
-### 💻 Most Used Languages
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiSharmaProductLedEngineering&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&hide=Jupyter%20Notebook" />
+### 🔥 STREAK STATS - CONSISTENCY IS KEY
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhiSharmaProductLedEngineering&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF)
 
 </div>
 
 <div align="center">
-  
-### 📈 Contribution Graph
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NidhiSharmaProductLedEngineering&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" />
+### 📈 CONTRIBUTION GRAPH - WHERE THE MAGIC HAPPENS
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=NidhiSharmaProductLedEngineering&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NidhiSharmaProductLedEngineering&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 ACHIEVEMENT UNLOCKED
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=NidhiSharmaProductLedEngineering&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🎯 FEATURED PROJECTS - MY GREATEST HITS
 
 <div align="center">
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/crypto-teletronics">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=crypto-teletronics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=crypto-teletronics&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/firebase-auth-with-table">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=firebase-auth-with-table&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=firebase-auth-with-table&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
 </a>
 
 </div>
 
-<div align="center" style="margin-top: 16px;">
+<br/>
+
+<div align="center">
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/modist-tech-assesment">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=modist-tech-assesment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=modist-tech-assesment&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/remarketing-project">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=remarketing-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=remarketing-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
 </a>
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💭 RANDOM DEV WISDOM
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 CONTRIBUTION SNAKE - WATCH IT EAT MY CONTRIBUTIONS
 
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NidhiSharmaProductLedEngineering/NidhiSharmaProductLedEngineering/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NidhiSharmaProductLedEngineering/NidhiSharmaProductLedEngineering/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NidhiSharmaProductLedEngineering/NidhiSharmaProductLedEngineering/output/github-contribution-grid-snake.svg">
-</picture>
 
-*To enable the snake animation: Go to repo Settings → Actions → Enable workflows*
+![Snake animation](https://raw.githubusercontent.com/NidhiSharmaProductLedEngineering/NidhiSharmaProductLedEngineering/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## 🎮 FUN STATS & METRICS
 
 <div align="center">
 
-### Open to interesting projects and collaborations!
+### 📊 This Week's Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhi-sharma-product-engineering)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhi.sharma@email.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nidhisharma.dev)
+### ⚡ Quick Facts
+
+```javascript
+const nidhiFacts = {
+    🍕 favoriteFood: "Pizza (without pineapple, fight me)",
+    ☕ coffeePerDay: "Math.floor(Math.random() * 10) + 3",
+    🎵 codingPlaylist: "Lo-fi beats + occasional chaos",
+    🌙 nightOwl: false,
+    😴 morningPerson: true,
+    🐛 bugsSquashed: "∞",
+    💡 ideasPerMinute: "Too many to count",
+    🚀 deploymentAnxiety: "Every. Single. Time."
+};
+```
+
+</div>
+
+---
+
+## 💼 WHY HIRE ME? LET ME COUNT THE WAYS...
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Product Mindset
+I don't just build features,
+I build solutions users love.
+Product-led thinking is in my DNA.
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ Fast Execution
+From idea to MVP in record time.
+I ship fast, iterate faster,
+and never compromise on quality.
+
+</td>
+<td width="33%" align="center">
+
+### 🤝 Team Player
+Great code is a team sport.
+I collaborate, communicate,
+and elevate everyone around me.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💪 What I Bring to the Table:
+
+```
+✅ Clean, maintainable code (your future self will thank me)
+✅ Product thinking (I ask "why" before "how")
+✅ Fast learner (new tech? Give me a weekend)
+✅ Problem solver (bugs don't stand a chance)
+✅ Team player (because we > me)
+✅ Growth mindset (always improving, never settling)
+✅ Sense of humor (because dev life is stressful enough)
+```
+
+</div>
+
+---
+
+## 🌐 LET'S CONNECT - SLIDE INTO MY DMs
+
+<div align="center">
+
+### 📬 I Promise I Reply Fast!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhisharma-fe-arc/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+<br/>
+
+### 🎯 Current Status:
+
+![Status](https://img.shields.io/badge/Status-🔥_Available_for_Hire-success?style=for-the-badge)
+![Response](https://img.shields.io/badge/Response_Time-⚡_Lightning_Fast-blue?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee_Level-☕☕☕☕_Optimal-brown?style=for-the-badge)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### 📫 CONTACT PROTOCOL
 
-### Thanks for visiting! ⭐️
+```javascript
+// Recruiters & Hiring Managers:
+if (needAwesomeDeveloper) {
+    const contact = "your.email@example.com";
+    sendMessage(contact, "Let's build something amazing!");
+}
 
-**Made with 💜 by [Nidhi Sharma](https://github.com/NidhiSharmaProductLedEngineering)**
+// Fellow Developers:
+if (wantToCollaborate || needHelp) {
+    reachOut("Always happy to help and learn!");
+}
+
+// Everyone Else:
+console.log("👋 Hi! Thanks for stopping by!");
+```
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+
+### 💜 Thanks for visiting! Now go build something awesome!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=NidhiSharmaProductLedEngineering&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+**⭐ Pro tip: If you found this profile cool, imagine how cool the projects are! Check them out! ⭐**
 
 </div>
