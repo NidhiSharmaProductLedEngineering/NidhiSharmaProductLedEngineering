@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nidhi%20Sharma&fontSize=90&fontAlignY=38&desc=🚀%20Turning%20Coffee%20into%20Code%20%7C%20Bugs%20into%20Features%20%7C%20Ideas%20into%20Products&descAlignY=55&descAlign=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Nidhi%20Sharma&fontSize=90&fontAlignY=38&desc=🚀%20Turning%20Coffee%20into%20Code%20%7C%20Bugs%20into%20Features%20%7C%20Ideas%20into%20Products&descAlignY=55&descAlign=50&animation=twinkling&color=gradient&customColorList=0,2,3,5,6)
 
 </div>
 
@@ -10,7 +10,7 @@
 class NidhiSharma extends Developer implements ProductEngineer {
     readonly name = "Nidhi Sharma";
     readonly location = "🌍 Dubai, UAE";
-    readonly title = "Product-Led Engineering";
+    readonly title = "Product-Led Engineering Specialist";
     
     private skills = {
         languages: ["TypeScript", "JavaScript", "Python", "The Language of Caffeine"],
@@ -35,7 +35,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Sorcerer+🪄;Product+Engineering+Enthusiast+💡;Bug+Hunter+Extraordinaire+🐛;Coffee+to+Code+Converter+☕→💻;Building+MVPs+at+Lightspeed+⚡;Always+Learning,+Never+Settling+📚&font=Fira+Code&center=true&width=600&height=100&color=f75c7e&vCenter=true&pause=1000&size=24&multiline=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Sorcerer+🪄;Product+Engineering+Enthusiast+💡;Bug+Hunter+Extraordinaire+🐛;Coffee+to+Code+Converter+☕→💻;Building+MVPs+at+Lightspeed+⚡;Always+Learning,+Never+Settling+📚&font=Fira+Code&center=true&width=600&height=100&color=F4A900&vCenter=true&pause=1000&size=24&multiline=true)](https://git.io/typing-svg)
 
 </div>
 
@@ -140,8 +140,8 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NidhiSharmaProductLedEngineering&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiSharmaProductLedEngineering&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NidhiSharmaProductLedEngineering&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiSharmaProductLedEngineering&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&text_color=FFFFFF"/>
 
 </div>
 
@@ -149,7 +149,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 ### 🔥 STREAK STATS - CONSISTENCY IS KEY
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhiSharmaProductLedEngineering&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhiSharmaProductLedEngineering&theme=dark&hide_border=true&background=1a1b27&stroke=F4A900&ring=F4A900&fire=F4A900&currStreakLabel=FFFFFF&sideLabels=F4A900&dates=FFFFFF)
 
 </div>
 
@@ -157,7 +157,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 ### 📈 CONTRIBUTION GRAPH - WHERE THE MAGIC HAPPENS
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NidhiSharmaProductLedEngineering&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NidhiSharmaProductLedEngineering&theme=github-compact&hide_border=true&bg_color=1a1b27&color=F4A900&line=F4A900&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -167,7 +167,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=NidhiSharmaProductLedEngineering&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=NidhiSharmaProductLedEngineering&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -178,11 +178,11 @@ class NidhiSharma extends Developer implements ProductEngineer {
 <div align="center">
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/crypto-teletronics">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=crypto-teletronics&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=crypto-teletronics&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/firebase-auth-with-table">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=firebase-auth-with-table&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=firebase-auth-with-table&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -192,11 +192,11 @@ class NidhiSharma extends Developer implements ProductEngineer {
 <div align="center">
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/modist-tech-assesment">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=modist-tech-assesment&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=modist-tech-assesment&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/NidhiSharmaProductLedEngineering/remarketing-project">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=remarketing-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=remarketing-project&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -207,7 +207,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -235,11 +235,11 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 ```javascript
 const nidhiFacts = {
-    🍕 favoriteFood: "Pizza (without pineapple, fight me)",
+    🍕 favoriteFood: "Pizza (with pineapple, fight me)",
     ☕ coffeePerDay: "Math.floor(Math.random() * 10) + 3",
     🎵 codingPlaylist: "Lo-fi beats + occasional chaos",
-    🌙 nightOwl: false,
-    😴 morningPerson: true,
+    🌙 nightOwl: true,
+    😴 morningPerson: false,
     🐛 bugsSquashed: "∞",
     💡 ideasPerMinute: "Too many to count",
     🚀 deploymentAnxiety: "Every. Single. Time."
@@ -315,8 +315,8 @@ and elevate everyone around me.
 ### 🎯 Current Status:
 
 ![Status](https://img.shields.io/badge/Status-🔥_Available_for_Hire-success?style=for-the-badge)
-![Response](https://img.shields.io/badge/Response_Time-⚡_Lightning_Fast-blue?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Coffee_Level-☕☕☕☕_Optimal-brown?style=for-the-badge)
+![Response](https://img.shields.io/badge/Response_Time-⚡_Lightning_Fast-F4A900?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee_Level-☕☕☕☕_Optimal-D4A017?style=for-the-badge)
 
 </div>
 
@@ -348,11 +348,11 @@ console.log("👋 Hi! Thanks for stopping by!");
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=0,2,3,5,6)
 
-### 💜 Thanks for visiting! Now go build something awesome!
+### 💛 Thanks for visiting! Now go build something awesome!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=NidhiSharmaProductLedEngineering&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=NidhiSharmaProductLedEngineering&color=yellow&style=for-the-badge&label=PROFILE+VIEWS)
 
 **⭐ Pro tip: If you found this profile cool, imagine how cool the projects are! Check them out! ⭐**
 
