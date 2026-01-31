@@ -1,64 +1,3 @@
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d3748&height=200&section=header&text=Nidhi%20Sharma&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-  
-  <h3>💫 Product-Led Engineer | Full Stack Developer | Dubai 🌍</h3>
-  <p><em>Turning Coffee into Code | Bugs into Features | Ideas into Products</em></p>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=NIDHI%20SHARMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-  
-  <h2>🚀 Product Engineering Specialist</h2>
-  <p><code>TypeScript • React • Node.js • Firebase • AWS</code></p>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:ee5a6f&height=200&section=header&text=Nidhi%20Sharma&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
-  
-  <p>
-    <em>☕ Coffee → Code → Products that Matter</em>
-  </p>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10b981&height=210&section=header&text=Nidhi%20Sharma&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Product%20Engineer&descAlignY=52&descSize=18" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=NIDHI%20SHARMA&fontSize=70&fontColor=f1f5f9&animation=twinkling&fontAlignY=35" />
-  
-  <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Product-Led+Engineering+Specialist;TypeScript+%2B+React+%2B+Node.js;Building+MVPs+%26+Scaling+Products" alt="Typing SVG" />
-  </h3>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=220&section=header&text=Nidhi%20Sharma&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences&descAlignY=54&descSize=20" />
-  
-  <p><strong>Full Stack Developer • Dubai 🌍 • Open for Opportunities 🚀</strong></p>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:6d28d9&height=200&section=header&text=Nidhi%20Sharma&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-  
-  <table align="center">
-    <tr>
-      <td>💼 Product-Led Engineer</td>
-      <td>🌍 Dubai, UAE</td>
-      <td>💻 Full Stack</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:14b8a6&height=210&section=header&text=NIDHI%20SHARMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-  
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Product+Engineer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Building+Scalable+Solutions" alt="Typing SVG" />
-  </h3>
-</div>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f8fafc&height=180&section=header&text=Nidhi%20Sharma&fontSize=80&fontColor=1e293b&animation=fadeIn&fontAlignY=55&stroke=e2e8f0&strokeWidth=2" />
   
@@ -80,6 +19,7 @@
 </div>
 
 <br/>
+
 
 
 <div align="center">
