@@ -3,8 +3,11 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Product+Engineer;TypeScript+•+React+•+Node.js+•+Firebase;Turning+Ideas+into+Products+⚡" alt="Typing SVG" />
-  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Sorcerer+🪄;Product+Engineering+Enthusiast+💡;Bug+Hunter+Extraordinaire+🐛;Coffee+to+Code+Converter+☕→💻;Building+MVPs+at+Lightspeed+⚡;Always+Learning,+Never+Settling+📚&font=Fira+Code&center=true&width=600&height=100&color=F4A900&vCenter=true&pause=1000&size=24&multiline=true)](https://git.io/typing-svg)
+
+</div>
   <br/><br/>
   
   <a href="https://linkedin.com/in/nidhisharma-fe-arc/">
@@ -20,24 +23,7 @@
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=<NIDHI%20/>&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=35" />
-  
-  <p>
-    <code style="color: #00ff41;">
-      $ whoami<br/>
-      > Product Engineer | Full Stack Dev | Dubai 🌍<br/>
-      > Building scalable products with TypeScript, React & Node.js
-    </code>
-  </p>
-</div>
 
-
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Nidhi%20Sharma&fontSize=90&fontAlignY=38&desc=🚀%20Turning%20Coffee%20into%20Code%20%7C%20Bugs%20into%20Features%20%7C%20Ideas%20into%20Products&descAlignY=55&descAlign=50&animation=twinkling&color=gradient&customColorList=0,2,3,5,6)
-
-</div>
 
 ```typescript
 // 🎯 System.out.println("Who am I?");
@@ -68,11 +54,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 }
 ```
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Sorcerer+🪄;Product+Engineering+Enthusiast+💡;Bug+Hunter+Extraordinaire+🐛;Coffee+to+Code+Converter+☕→💻;Building+MVPs+at+Lightspeed+⚡;Always+Learning,+Never+Settling+📚&font=Fira+Code&center=true&width=600&height=100&color=F4A900&vCenter=true&pause=1000&size=24&multiline=true)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
