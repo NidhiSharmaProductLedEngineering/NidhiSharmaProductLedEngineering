@@ -20,8 +20,6 @@
 
 <br/>
 
-
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=<NIDHI%20/>&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=35" />
   
