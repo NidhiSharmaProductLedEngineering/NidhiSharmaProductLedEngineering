@@ -365,7 +365,7 @@ console.log("👋 Hi! Thanks for stopping by!");
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=0,2,3,5,6)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&color=gradient&customColorList=0,2,3,5,6)
 
 ### 💛 Thanks for visiting! Now go build something awesome!
 
