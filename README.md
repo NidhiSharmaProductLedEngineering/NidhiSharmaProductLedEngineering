@@ -194,27 +194,17 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <div align="center">
 
-<a href="https://github.com/NidhiSharmaProductLedEngineering/crypto-teletronics">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=crypto-teletronics&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
-</a>
+[![Crypto-Teletronics](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=crypto-teletronics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/crypto-teletronics)
 
-<a href="https://github.com/NidhiSharmaProductLedEngineering/firebase-auth-with-table">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=firebase-auth-with-table&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
-</a>
+[![Firebase-Auth-Table](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=firebase-auth-with-table&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/firebase-auth-with-table)
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<a href="https://github.com/NidhiSharmaProductLedEngineering/modist-tech-assesment">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=modist-tech-assesment&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
-</a>
+[![Modist-Tech](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=modist-tech-assesment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/modist-tech-assesment)
 
-<a href="https://github.com/NidhiSharmaProductLedEngineering/remarketing-project">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=remarketing-project&theme=dark&hide_border=true&bg_color=1a1b27&title_color=F4A900&icon_color=F4A900&text_color=FFFFFF" />
-</a>
+[![Remarketing-Project](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=remarketing-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/remarketing-project)
 
 </div>
 
