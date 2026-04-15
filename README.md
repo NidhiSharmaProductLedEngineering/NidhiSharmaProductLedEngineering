@@ -192,7 +192,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 ## 🎯 FEATURED PROJECTS - MY GREATEST HITS
 <div align="center">
-[![(https://postmortem-ai-lime.vercel.app)]]
+[![postmortem-ai](https://postmortem-ai-lime.vercel.app)]
 
 </div>
 <div align="center">
