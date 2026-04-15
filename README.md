@@ -190,9 +190,26 @@ class NidhiSharma extends Developer implements ProductEngineer {
 ---
 
 ## 🎯 FEATURED PROJECTS - MY GREATEST HITS
-<div align="center">
 
-[![Varcel-Demo](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=postmortem-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/postmortem-ai)
+<div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+
+<a href="https://style-finder-one.vercel.app" target="_blank">
+  <img 
+    src="https://image.thum.io/get/width/800/crop/600/https://style-finder-one.vercel.app" 
+    width="420" 
+    alt="Style Finder Project"
+    style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
+  />
+</a>
+
+<a href="https://postmortem-ai-lime.vercel.app/" target="_blank">
+  <img 
+    src="https://image.thum.io/get/width/800/crop/600/https://postmortem-ai-lime.vercel.app/" 
+    width="420" 
+    alt="Postmortem AI Project"
+    style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
+  />
+</a>
 
 </div>
 
