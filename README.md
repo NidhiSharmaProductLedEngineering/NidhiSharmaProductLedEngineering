@@ -192,7 +192,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 ## 🎯 FEATURED PROJECTS - MY GREATEST HITS
 <div align="center">
 
-[![Varchel-Demo](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=postmortem-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/postmortem-ai)
+[![Varcel-Demo](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=postmortem-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/postmortem-ai)
 
 </div>
 
