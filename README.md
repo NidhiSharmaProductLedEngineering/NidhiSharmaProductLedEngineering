@@ -184,30 +184,15 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=NidhiSharmaProductLedEngineering&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=NidhiSharmaProductLedEngineering&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 </div>
 
 ---
 
 ## 🎯 FEATURED PROJECTS - MY GREATEST HITS
 <div align="center">
-[![postmortem-ai](https://postmortem-ai-lime.vercel.app)]
 
-</div>
-<div align="center">
-
-[![Crypto-Teletronics](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=crypto-teletronics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/crypto-teletronics)
-
-[![Firebase-Auth-Table](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=firebase-auth-with-table&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/firebase-auth-with-table)
-
-</div>
-
-<div align="center">
-
-[![Modist-Tech](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=modist-tech-assesment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/modist-tech-assesment)
-
-[![Remarketing-Project](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=remarketing-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/remarketing-project)
+[![Varchel-Demo](https://github-readme-stats.vercel.app/api/pin/?username=NidhiSharmaProductLedEngineering&repo=REPO_NAME_HERE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9)](https://github.com/NidhiSharmaProductLedEngineering/REPO_NAME_HERE)
 
 </div>
 
