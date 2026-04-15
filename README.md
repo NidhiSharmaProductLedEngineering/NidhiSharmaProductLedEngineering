@@ -180,14 +180,6 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 ---
 
-## 🏆 ACHIEVEMENT UNLOCKED
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=NidhiSharmaProductLedEngineering&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-</div>
-
----
 
 ## 🎯 FEATURED PROJECTS - MY GREATEST HITS
 
@@ -198,7 +190,11 @@ class NidhiSharma extends Developer implements ProductEngineer {
     src="https://image.thum.io/get/width/400/crop/300/https://style-finder-one.vercel.app" 
     width="420" 
     alt="Style Finder Project"
-    style="border-radius:12px white; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
+    style="max-width: 100%;
+    border: 2px solid white;
+    border-radius: 10px;
+    max-height: 420px;
+    margin-right: 20px;" 
   />
 </a>
 
@@ -207,7 +203,10 @@ class NidhiSharma extends Developer implements ProductEngineer {
     src="https://image.thum.io/get/width/400/crop/300/https://postmortem-ai-lime.vercel.app/" 
     width="420" 
     alt="Postmortem AI Project"
-    style="border-radius:12px white; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
+     style="max-width: 100%;
+    border: 2px solid white;
+    border-radius: 10px;
+    max-height: 420px;" 
   />
 </a>
 
