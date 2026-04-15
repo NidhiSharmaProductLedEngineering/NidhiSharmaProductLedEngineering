@@ -195,19 +195,19 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <a href="https://style-finder-one.vercel.app" target="_blank">
   <img 
-    src="https://image.thum.io/get/width/800/crop/600/https://style-finder-one.vercel.app" 
+    src="https://image.thum.io/get/width/400/crop/300/https://style-finder-one.vercel.app" 
     width="420" 
     alt="Style Finder Project"
-    style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
+    style="border-radius:12px white; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
   />
 </a>
 
 <a href="https://postmortem-ai-lime.vercel.app/" target="_blank">
   <img 
-    src="https://image.thum.io/get/width/800/crop/600/https://postmortem-ai-lime.vercel.app/" 
+    src="https://image.thum.io/get/width/400/crop/300/https://postmortem-ai-lime.vercel.app/" 
     width="420" 
     alt="Postmortem AI Project"
-    style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
+    style="border-radius:12px white; box-shadow:0 4px 20px rgba(0,0,0,0.12);" 
   />
 </a>
 
