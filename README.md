@@ -190,7 +190,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 <table align="center">
 <tr>
 
-<td align="center" width="40%">
+<td align="center" width="40%" border="1px solid #fff;">
 
 <a href="https://style-finder-one.vercel.app" target="_blank">
   <img 
@@ -206,7 +206,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 </td>
  <td align="center" width="20%" border="0"></td>
-<td align="center" width="40%">
+<td align="center" width="40%" border="1px solid #fff;">
 
 <a href="https://postmortem-ai-lime.vercel.app/" target="_blank">
   <img 
