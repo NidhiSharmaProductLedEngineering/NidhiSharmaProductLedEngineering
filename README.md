@@ -185,30 +185,43 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 <div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
+## 🎯 FEATURED PROJECTS - MY GREATEST HITS
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 <a href="https://style-finder-one.vercel.app" target="_blank">
   <img 
-    src="https://image.thum.io/get/width/400/crop/300/https://style-finder-one.vercel.app" 
-    width="420" 
+    src="https://image.thum.io/get/width/800/crop/500/https://style-finder-one.vercel.app" 
+    width="100%" 
     alt="Style Finder Project"
-    style="max-width: 100%;
-    border: 2px solid white;
-    border-radius: 10px;
-    max-height: 420px;
-    margin-right: 20px;" 
+    style="border-radius:10px; border:2px solid #e2e8f0;" 
   />
 </a>
 
+<br/><br/>
+<b>👗 AI Style Finder</b>
+
+</td>
+
+<td align="center" width="50%">
+
 <a href="https://postmortem-ai-lime.vercel.app/" target="_blank">
   <img 
-    src="https://image.thum.io/get/width/400/crop/300/https://postmortem-ai-lime.vercel.app/" 
-    width="420" 
+    src="https://image.thum.io/get/width/800/crop/500/https://postmortem-ai-lime.vercel.app/" 
+    width="100%" 
     alt="Postmortem AI Project"
-     style="max-width: 100%;
-    border: 2px solid white;
-    border-radius: 10px;
-    max-height: 420px;" 
+    style="border-radius:10px; border:2px solid #e2e8f0;" 
   />
 </a>
+
+<br/><br/>
+<b>🧠 AI Postmortem Analyzer</b>
+
+</td>
+</tr>
+</table>
 
 </div>
 
