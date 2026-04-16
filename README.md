@@ -180,15 +180,12 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 ---
 
-
 ## 🎯 FEATURED PROJECTS - MY GREATEST HITS
-
-<div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
 <table align="center" cellspacing="20">
 <tr>
 
-<td align="center" width="50%" style="padding:10px;">
+<td align="center" width="33%" style="padding:10px;">
 
 <a href="https://style-finder-one.vercel.app" target="_blank">
   <img 
@@ -204,7 +201,7 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 </td>
 
-<td align="center" width="50%" style="padding:10px;">
+<td align="center" width="33%" style="padding:10px;">
 
 <a href="https://postmortem-ai-lime.vercel.app/" target="_blank">
   <img 
@@ -220,10 +217,24 @@ class NidhiSharma extends Developer implements ProductEngineer {
 
 </td>
 
+<td align="center" width="33%" style="padding:10px;">
+
+<a href="https://anthropical-remarket.vercel.app/" target="_blank">
+  <img 
+    src="https://image.thum.io/get/width/800/crop/500/https://anthropical-remarket.vercel.app/" 
+    width="100%" 
+    alt="ReMarket Project"
+    style="border-radius:5px; border:2px solid white;" 
+  />
+</a>
+
+<br/><br/>
+<b>🛍️ ReMarket (AI Flea Market)</b>
+
+</td>
+
 </tr>
 </table>
-
-</div>
 
 ---
 
