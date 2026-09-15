@@ -16,9 +16,11 @@
   <a href="mailto:nidhi_sharmait28@yahoo.co.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <!--
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
+  -->
 </div>
 
 <br/>
